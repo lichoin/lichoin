@@ -1,6 +1,6 @@
 # 沥泉科技 · Lichoin Technology
 
-> Security, Proven by Attack.
+> 以矛为盾，攻守相生。
 
 
 
